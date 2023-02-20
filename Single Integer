@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+	int i;
+	int num=[1,2,4,1,2];
+	if()
+	{
+		
+	}
+	print("Number is %d",i);
+}
